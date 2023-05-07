@@ -1,0 +1,2 @@
+piwik==0.5.1
+simplejson==3.19.1
